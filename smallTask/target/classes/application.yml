@@ -1,0 +1,4 @@
+server.port: 8080
+
+mobileLogs.jsonPath: "https://github.com/TomasStesti/simpleTraining/blob/master/logs/MCP_%s.json"
+mobileLogs.watchedWords: HELLO, GOOD
